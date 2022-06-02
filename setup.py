@@ -38,7 +38,7 @@ setup (
  long_description_content_type="text/markdown",
  license='MIT',
  url='https://github.com/juliangdz/cvCam.git',
- download_url='https://github.com/juliangdz/cvCam/archive/0.0.1.tar.gz',
+#  download_url='https://github.com/juliangdz/cvCam/archive/0.0.1.tar.gz',
   dependency_links=dependency_links,
 #   author_email='',
   classifiers=[
